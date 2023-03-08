@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab2.RunClassesTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-06-21T11:48:51" hostname="DESKTOP-KEF8T76" time="0.69">
+  <properties/>
+  <testcase name="runConversion()" classname="lab2.RunClassesTest" time="0.348"/>
+  <testcase name="runCondition()" classname="lab2.RunClassesTest" time="0.051"/>
+  <testcase name="runIOUtil()" classname="lab2.RunClassesTest" time="0.036"/>
+  <testcase name="runAdd()" classname="lab2.RunClassesTest" time="0.032"/>
+  <testcase name="runJmp()" classname="lab2.RunClassesTest" time="0.033"/>
+  <testcase name="runControl()" classname="lab2.RunClassesTest" time="0.035"/>
+  <testcase name="runHelloWorld()" classname="lab2.RunClassesTest" time="0.028"/>
+  <testcase name="runArith()" classname="lab2.RunClassesTest" time="0.041"/>
+  <testcase name="runDummy()" classname="lab2.RunClassesTest" time="0.026"/>
+  <testcase name="runConv()" classname="lab2.RunClassesTest" time="0.028"/>
+  <testcase name="runMath()" classname="lab2.RunClassesTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[6月 21, 2022 7:48:51 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:51 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+6月 21, 2022 7:48:52 下午 org.jline.utils.Log logr
+警告: Unable to create a system terminal, creating a dumb terminal (enable debug logging for more information)
+]]></system-err>
+</testsuite>

@@ -1,0 +1,76 @@
+[
+  {
+    "name" : "picocli.CommandLine$AutoHelpMixin",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "helpRequested" },
+      { "name" : "versionRequested" }
+    ]
+  },
+  {
+    "name" : "vjvm.interpreter.JMonitor$Info",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "methods" : [
+      { "name" : "breakpoints", "parameterTypes" : [] },
+      { "name" : "locals", "parameterTypes" : [] },
+      { "name" : "operandStack", "parameterTypes" : [] }
+    ]
+  },
+  {
+    "name" : "vjvm.interpreter.JMonitor$Main",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "methods" : [
+      { "name" : "backtrace", "parameterTypes" : [] },
+      { "name" : "breakpoint", "parameterTypes" : ["java.lang.String", "java.lang.String", "int"] },
+      { "name" : "continue_", "parameterTypes" : [] },
+      { "name" : "deleteBreakpoint", "parameterTypes" : ["int"] },
+      { "name" : "disassemble", "parameterTypes" : [] },
+      { "name" : "help", "parameterTypes" : [] },
+      { "name" : "quit", "parameterTypes" : [] },
+      { "name" : "stepInstruction", "parameterTypes" : ["int"] }
+    ]
+  },
+  {
+    "name" : "vjvm.vm.Dump",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "className" },
+      { "name" : "parent" }
+    ]
+  },
+  {
+    "name" : "vjvm.vm.Main",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "userClassPath" }
+    ]
+  },
+  {
+    "name" : "vjvm.vm.Run",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "fields" : [
+      { "name" : "args" },
+      { "name" : "debug" },
+      { "name" : "entryClass" },
+      { "name" : "parent" }
+    ]
+  }
+]
